@@ -1,0 +1,192 @@
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Browser.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\bin\Debug\netcoreapp3.1\Browser.pdb
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+D:\Learning\3 курс\СПП\Laba3\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Browser.dll
+D:\Downloads\Browser\Tests\bin\Debug\netcoreapp3.1\Browser.pdb
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+D:\Downloads\Browser\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
