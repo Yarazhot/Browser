@@ -1,0 +1,17 @@
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.deps.json
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.pdb
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csprojAssemblyReference.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfoInputs.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfo.cs
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.pdb
+D:\Downloads\Browser\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.deps.json
+D:\Downloads\Browser\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.dll
+D:\Downloads\Browser\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.pdb
+D:\Downloads\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfoInputs.cache
+D:\Downloads\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfo.cs
+D:\Downloads\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CoreCompileInputs.cache
+D:\Downloads\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.dll
+D:\Downloads\Browser\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.pdb
