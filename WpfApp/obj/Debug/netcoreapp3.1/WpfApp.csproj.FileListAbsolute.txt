@@ -1,0 +1,46 @@
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csprojAssemblyReference.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.lref
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.exe
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.deps.json
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.json
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.dev.json
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.pdb
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\Browser.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\bin\Debug\netcoreapp3.1\Browser.pdb
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.g.resources
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfoInputs.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfo.cs
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csproj.CopyComplete
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.dll
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.pdb
+D:\Learning\3 курс\СПП\Laba3\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.genruntimeconfig.cache
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.exe
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.deps.json
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.json
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.dev.json
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.dll
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.pdb
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\Browser.dll
+D:\Downloads\Browser\WpfApp\bin\Debug\netcoreapp3.1\Browser.pdb
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csprojAssemblyReference.cache
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.cache
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.lref
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.g.resources
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfoInputs.cache
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfo.cs
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csproj.CoreCompileInputs.cache
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csproj.CopyComplete
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.dll
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.pdb
+D:\Downloads\Browser\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.genruntimeconfig.cache
